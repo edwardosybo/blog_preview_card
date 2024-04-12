@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+}
+.first-layer{
+    background-color: rgb(230, 198, 69);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+.main-layer{
+    background-color: white;
+    margin: 100px;
+    padding: 20px;
+    height: 80%;
+    width: 30%;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 15px 10px rgb(35, 35, 35);
+    border-color: black;
+}
+.write-up{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.main-layer img{
+    border-radius: 15px;
+}
+footer{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 10px;
+    margin-right: 40px;
+}
+
+.write-up2{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.write-up2 p {
+    margin-top: 20px;
+}
